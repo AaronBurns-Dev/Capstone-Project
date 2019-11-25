@@ -1,0 +1,10 @@
+INSTALLATION STEPS:
+
+Install Python 3.6.4 from https://www.python.org/downloads/
+Install Cython (e.g. sudo -H pip3 install Cython==0.26.1)
+Install Kivy v1.10.1.dev0 (e.g. sudo -H pip3 install https://github.com/kivy/kivy/archive/master.zip)
+Install pyrebase (e.g. sudo -H pip3 install pyrebase)
+
+
+TO UPGRADE PIP:
+pip install --upgrade pip
